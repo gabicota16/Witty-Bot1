@@ -102,7 +102,7 @@ loadChatgptDB();
 
 /* ------------------------------------------------*/
 
-global.authFile = `GataBotSession`;
+global.authFile = `WittyBotSession`;
 const {state, saveState, saveCreds} = await useMultiFileAuthState(global.authFile);
 const msgRetryCounterMap = (MessageRetryMap) => { };
 const {version} = await fetchLatestBaileysVersion();
@@ -129,7 +129,7 @@ auth: {
 creds: state.creds,
 keys: makeCacheableSignalKeyStore(state.keys, pino({level: 'silent'})),
 },
-browser: ['GataBot-MD','Edge','1.0.0'],
+browser: ['Witty-Bot','Edge','1.0.0'],
 version,
 defaultQueryTimeoutMs: undefined,
 };
@@ -142,7 +142,7 @@ if (!opts['test']) {
 if (global.db) {
 setInterval(async () => {
 if (global.db.data) await global.db.write();
-if (opts['autocleartmp'] && (global.support || {}).find) (tmp = [os.tmpdir(), 'tmp', 'GataJadiBot'], tmp.forEach((filename) => cp.spawn('find', [filename, '-amin', '3', '-type', 'f', '-delete'])));
+if (opts['autocleartmp'] && (global.support || {}).find) (tmp = [os.tmpdir(), 'tmp', 'WittyJadiBot'], tmp.forEach((filename) => cp.spawn('find', [filename, '-amin', '3', '-type', 'f', '-delete'])));
 }, 30 * 1000);
 }}
 
