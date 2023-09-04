@@ -162,48 +162,52 @@ global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.pre
 
 //⊱ ━━━━━.⋅ IMG ⋅.━━━━ ⊰
 
-global.imagen1 = fs.readFileSync("./media/menus/Menu3.jpg");
-global.imagen2 = fs.readFileSync("./media/menus/img1.jpg");
-global.imagen3 = fs.readFileSync("./media/menus/img2.jpg");
-global.imagen4 = fs.readFileSync("./media/menus/img3.jpg");
-global.imagen5 = fs.readFileSync("./media/menus/img4.jpg");
-global.imagen6 = fs.readFileSync("./media/menus/img5.jpg");
-global.imagen7 = fs.readFileSync('./media/menus/img6.jpg');
-global.imagen8 = fs.readFileSync('./media/menus/img7.jpg');
-global.imagen9 = fs.readFileSync("./media/menus/img8.jpg");
-global.imagen10 = fs.readFileSync("./media/menus/img9.jpg");
-global.imagen11 = fs.readFileSync("./media/menus/img10.jpg");
-global.imagen12 = fs.readFileSync("./media/menus/img11.jpg");
-global.imagen13 = fs.readFileSync("./media/menus/img12.jpg");
+global.imagen1 = fs.readFileSync("./media/menus/Menu3.jpg")
+global.imagen2 = fs.readFileSync("./media/menus/img1.jpg")
+global.imagen3 = fs.readFileSync("./media/menus/img2.jpg")
+global.imagen4 = fs.readFileSync("./media/menus/Menu.jpg")
+global.imagen5 = fs.readFileSync("./media/menus/img4.jpg")
+global.imagen6 = fs.readFileSync("./media/menus/img5.jpg")
+global.imagen7 = fs.readFileSync("./media/menus/img6.jpg")
+global.imagen8 = fs.readFileSync("./media/menus/img7.jpg")
+global.imagen9 = fs.readFileSync("./media/menus/img8.jpg")
+global.imagen10 = fs.readFileSync("./media/menus/img9.jpg")
+global.imagen11 = fs.readFileSync("./media/menus/img10.jpg")
+global.imagen12 = fs.readFileSync("./media/menus/img11.jpg")
+global.imagen14 = fs.readFileSync("./media/menus/menustickers.jpg")
+global.imagen15 = fs.readFileSync("./media/menus/menujuegos.jpg")
+global.imagen16 = fs.readFileSync("./media/menus/menudescargas.jpg")
+global.imagen17 = fs.readFileSync("./media/menus/menurpg.jpg")
+global.imagen18 = fs.readFileSync("./media/menus/menuconfiggc.jpg")
 
-//━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━━━━━ 
 
 
 //━━━━━━━━━━━━━━ img ━━━━━━━━━
 
-global.img = 'https://tinyurl.com/2dgppss3.jpg';
-global.img2 = 'https://tinyurl.com/27jqx2e6.jpg';
+global.img = 'https://i.postimg.cc/Bb1SMp8L/img2.jpg';
+global.img2 = 'https://i.postimg.cc/G3zV5GP9/img7.jpg';
 
-global.img3 = 'https://tinyurl.com/23jcbhue.jpg'; //prem
-global.img4 = 'https://tinyurl.com/23z2xqqv.jpg'; //prem
+global.img3 = 'https://i.imgur.com/oUAGYc2.jpg'; //prem
+global.img4 = 'https://i.imgur.com/i0pccuo.jpg'; //prem
 
-global.img5 = 'https://tinyurl.com/29nok9ba.jpeg';
-global.img6 = 'https://tinyurl.com/227vqnqn.jpeg';
-global.img7 = 'https://tinyurl.com/233rvq4c.jpeg';
-global.img8 = 'https://tinyurl.com/2annkxr3.jpeg';
-global.img9 = 'https://tinyurl.com/226lfwn7.jpeg';
+global.img5 = 'https://i.postimg.cc/kXyGv4RF/img1.jpg';
+global.img6 = 'https://i.postimg.cc/V6MLrLct/img9.jpg';
+global.img7 = 'https://i.postimg.cc/nzvpVRvY/img8.jpg';
+global.img8 = 'https://i.postimg.cc/pdzC9nqx/img10.jpg';
+global.img9 = 'https://i.postimg.cc/cLVT4c7X/img6.jpg';
 
-global.img10 = 'https://i.imgur.com/DvHoMc3.jpg';
-global.img11 = 'https://i.imgur.com/5Q1MqGD.jpg';
-global.img12 = 'https://i.imgur.com/vWnsjh8.jpg';
-global.img13 = 'https://i.imgur.com/pCfFOgw.jpeg';
-global.img14 = 'https://i.imgur.com/knBDWRA.jpeg';
-global.img15 = 'https://i.imgur.com/QrkkKx7.jpeg';
+global.img10 = 'https://i.postimg.cc/nzvpVRvY/img8.jpg';
+global.img11 = 'https://i.postimg.cc/kXyGv4RF/img1.jpg';
+global.img12 = 'https://i.postimg.cc/d0s3Cb91/img5.jpg';
+global.img13 = 'https://i.postimg.cc/MHCXjXs2/img11.jpg';
+global.img14 = 'https://i.postimg.cc/j5fRFfyD/Screenshot-20230727-005912-1.jpg';
+global.img15 = 'https://i.postimg.cc/8C2SMCxN/Screenshot-20230727-005658-1.jpg';
 
 global.img16 = 'https://i.imgur.com/11MRjo4.jpeg'; //+18
 
-global.img17 = 'https://i.imgur.com/JpYfcH0.jpeg';
-global.img18 = 'https://i.imgur.com/9yLH4W4.jpeg';
+global.img17 = 'https://i.postimg.cc/hP53f5kq/Menu3.jpg';
+global.img18 = 'https://i.postimg.cc/0jZFW5X6/Screenshot-20230727-005451-1.jpg';
 
 global.logogit = 'https://tinyurl.com/2qvl9vgs';
 
@@ -211,7 +215,7 @@ global.welwitty = [ig, yt2, yt2, ig, md, ig, yt, paypal, yt2, yt2, ig, fb];
 global.redesMenu = [nna, md, ig, paypal, yt, asistencia, fb];
 global.wittyMenu = [img, img2, img6, img7, img8, img9, img13, img14, img15, img17, img18];
 global.wittyVidMenu = ['./media/menus/Menuvid1.mp4', './media/menus/Menuvid2.mp4', './media/menus/Menuvid3.mp4'];
-global.wittyImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen7, imagen8, imagen9, imagen10, imagen11, imagen12, imagen13];
+global.wittyImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen7, imagen8, imagen9, imagen10, imagen11, imagen12, imagen13, imagen14, imagen15, imagen16, imagen17, imagen18];
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
