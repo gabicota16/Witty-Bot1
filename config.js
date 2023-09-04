@@ -216,7 +216,7 @@ global.welwitty = [ig, yt2, yt2, ig, md, ig, yt, paypal, yt2, yt2, ig, fb];
 global.redesMenu = [nna, md, ig, paypal, yt, asistencia, fb];
 global.wittyMenu = [img, img2, img6, img7, img8, img9, img13, img14, img15, img17, img18];
 global.wittyVidMenu = ['./media/menus/Menuvid1.mp4', './media/menus/Menuvid2.mp4', './media/menus/Menuvid3.mp4'];
-global.wittyImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen7, imagen8, imagen9, imagen10, imagen11, imagen12, imagen13, imagen14, imagen15, imagen16, imagen17, imagen18];
+global.wittyImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen7, imagen8, imagen9, imagen10, imagen11, imagen12, imagen14, imagen15, imagen16, imagen17, imagen18];
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
